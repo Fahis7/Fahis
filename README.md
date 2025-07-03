@@ -48,9 +48,10 @@
 ---
 
 ### 📫 How to Reach Me
-- 📩 Email: [your.email@example.com](fahismt777@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/fahismt)
-- 🌐 Portfolio: [Your Portfolio](fahis7.github.io/portfolio/ )
+- 📩 Email:  [fahismt777@gmail.com](mailto:fahismt777@gmail.com)
+- 💼 LinkedIn: [Fahis LinkedIn](https://www.linkedin.com/in/fahismt)
+- 🌐 Portfolio: [My Portfolio](https://fahis7.github.io/portfolio/)
+- 📷 Instagram: [@fahls__](https://www.instagram.com/fahls__/)
 
 ---
 
