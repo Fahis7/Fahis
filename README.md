@@ -31,15 +31,7 @@
 ## 📈 Contribution Graph (Line Style)
 
 <p align="center">
-  <img src="https://github-contribution-graph.ezra-buckley.com/contributions?user=Fahis7&type=linear" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fahis7&theme=flat&no-frame=true&margin-w=4" alt="Trophies">
+  <img src="https://github-readme-graph.vercel.app/api?username=Fahis7&theme=chartreuse-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
