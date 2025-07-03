@@ -30,9 +30,9 @@
 
 ## 📈 Contribution Graph (Line Style)
 
-<p align="center">
-  <img src="https://github-readme-graph.vercel.app/api?username=Fahis7&theme=chartreuse-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahis7&show=commits&theme=github_dark&count_private=true&custom_title=My+Commit+Breakdown&border_radius=12" width="95%" alt="Commit Stats" />
+</td>
 
 ---
 
